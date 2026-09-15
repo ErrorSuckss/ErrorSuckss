@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Matt Laurence Wagas</h1>
-<h3 align="center">A Backend-Focused Full-Stack Web Developer from the Philippines 🇵🇭</h3>
+<h3 align="center">Full-Stack Web Developer from the Philippines 🇵🇭</h3>
 
 ---
 
